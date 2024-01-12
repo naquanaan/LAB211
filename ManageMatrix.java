@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package matrix;
+package matrixtest;
 
 /**
- * A class for managing matrix operations such as addition, subtraction, and multiplication.
- * @author ADMIN
+ * This class provides methods for managing matrices, including addition, subtraction, and multiplication.
+ * 
+ * @author WuanTun
  */
 public class ManageMatrix {
-
-     // Method to perform matrix addition
+    // Method to perform matrix addition
     /**
      * Performs matrix addition of two input matrices.
      *
@@ -81,4 +81,3 @@ public class ManageMatrix {
         return result;
     }
 }
-
